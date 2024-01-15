@@ -1,5 +1,4 @@
 ---
----
 layout: post
 date: June 2019
 inline: true
