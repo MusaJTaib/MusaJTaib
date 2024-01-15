@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: June 2016
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Summer Internship at Allied Engineering & Services Limited
