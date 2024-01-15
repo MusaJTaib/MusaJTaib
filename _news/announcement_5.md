@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduate Bachelor's of Electrical Engineering from National University of Science and Technology (NUST)
+Graduate Bachelors of Electrical Engineering from National University of Science and Technology (NUST)
