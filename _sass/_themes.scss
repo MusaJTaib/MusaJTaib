@@ -5,7 +5,7 @@
 :root {
   --global-bg-color: #{$white-color}; /* Light theme background (Green) */
   --global-code-bg-color: #{$code-bg-color-light}; /* Light theme code background */
-  --global-text-color: #{$black-color}; /* Light theme text color */
+  --global-text-color: #000000; /* Light theme text color set to black */
   --global-text-color-light: #{$grey-color}; /* Light theme light text color */
   --global-theme-color: orange; /* Light theme primary color (Orange) */
   --global-hover-color: orange; /* Light theme hover color (Orange) */
@@ -46,6 +46,7 @@
     display: none;
   }
 }
+
 
 html[data-theme='dark'] {
   --global-bg-color: #212121; /* Dark theme background (Dark Orange) */
