@@ -19,6 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Recent Master’s graduate specialized in Machine Learning and Data Science, bringing over three years of research experience in the field. Currently working as a Machine Learning and Data Researcher, I am actively seeking opportunities to further my career in the fields of Data Science and Machine Learning.
+Recent Master’s graduate specialized in Machine Learning and Data Science, bringing over three years of research experience in the field. Currently working as a Machine Learning and Data Researcher at the University of Calgary with Dr. [Geoffrey Messier](https://profiles.ucalgary.ca/geoffrey-messier), I am actively seeking opportunities to further my career in the fields of Data Science and Machine Learning.
 
 I enjoy reading comics, cooking, table tennis, watching anime and, playing Dota2!
